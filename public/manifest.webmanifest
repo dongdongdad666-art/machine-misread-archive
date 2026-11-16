@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "机器误读档案馆",
+  "short_name": "误读档案",
+  "description": "记录正在消失的日常物件，以及机器判断与人的记忆之间的距离。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f9f4ec",
+  "theme_color": "#10201d",
+  "icons": [
+    {
+      "src": "/archive-mark-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/archive-mark-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/archive-mark-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/archive-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="机器误读档案馆">
+  <rect width="512" height="512" rx="88" fill="#10201d"/>
+  <path d="M112 124h288v46H112zm0 109h288v46H112zm0 109h288v46H112z" fill="#f9f4ec" opacity=".2"/>
+  <path d="M149 112h50v288h-50zm164 0h50v288h-50z" fill="#d13c2d"/>
+  <circle cx="256" cy="256" r="76" fill="#f9f4ec"/>
+  <path d="M220 203h31v106h-31zm50 0h31v106h-31z" fill="#10201d"/>
+</svg>

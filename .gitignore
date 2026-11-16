@@ -1,0 +1,10 @@
+/node_modules/
+/dist/
+/.edgeone/
+/.vercel/
+/work/
+/test-results/
+/playwright-report/
+.env*
+!.env.example
+*.tsbuildinfo

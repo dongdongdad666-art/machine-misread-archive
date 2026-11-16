@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "seed-index-v1",
+  "records": [
+    { "id": "seed-bus-ticket-collection-01", "accessionNo": "MMA-OBJ-0001", "objectName": "纸质公交车票集合", "disappearanceMode": "制度更替" },
+    { "id": "seed-old-keys-01", "accessionNo": "MMA-OBJ-0002", "objectName": "用途待确认的旧钥匙组", "disappearanceMode": "语境丢失" },
+    { "id": "seed-old-dictionary-01", "accessionNo": "MMA-OBJ-0003", "objectName": "严重磨损的《新华字典》", "disappearanceMode": "媒介替代" },
+    { "id": "seed-audio-cassette-01", "accessionNo": "MMA-OBJ-0004", "objectName": "透明外壳录音磁带", "disappearanceMode": "媒介替代" },
+    { "id": "seed-floppy-disk-01", "accessionNo": "MMA-OBJ-0005", "objectName": "三点五英寸软盘", "disappearanceMode": "媒介替代" },
+    { "id": "seed-vhs-tape-01", "accessionNo": "MMA-OBJ-0006", "objectName": "VHS 录像带", "disappearanceMode": "媒介替代" },
+    { "id": "seed-numeric-pager-01", "accessionNo": "MMA-OBJ-0007", "objectName": "数字寻呼机", "disappearanceMode": "失去用途" },
+    { "id": "seed-card-payphone-01", "accessionNo": "MMA-OBJ-0008", "objectName": "卡式公用电话", "disappearanceMode": "制度更替" },
+    { "id": "seed-slide-rule-01", "accessionNo": "MMA-OBJ-0009", "objectName": "格拉福莱克斯计算尺", "disappearanceMode": "失去用途" },
+    { "id": "seed-rotary-telephone-01", "accessionNo": "MMA-OBJ-0010", "objectName": "灰色转盘电话", "disappearanceMode": "媒介替代" },
+    { "id": "seed-film-canisters-01", "accessionNo": "MMA-OBJ-0011", "objectName": "三十五毫米胶卷盒组", "disappearanceMode": "媒介替代" },
+    { "id": "seed-digital-clock-01", "accessionNo": "MMA-OBJ-0012", "objectName": "红色数码显示闹钟", "disappearanceMode": "失去用途" }
+  ]
+}
